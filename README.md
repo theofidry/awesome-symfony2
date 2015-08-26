@@ -1,6 +1,6 @@
 # Awesome Symfony 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resources.
-
+d
 Table of contents:
 
 * [User Management](#user-management)
@@ -109,6 +109,7 @@ Table of contents:
  * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
  * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
  * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
+ * [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell with a Symfony context.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
  * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags
